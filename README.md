@@ -1,3 +1,9 @@
+# Video Demo Link:
+https://drive.google.com/file/d/1xOwnvqnZ9QOQzdYhFlMiZfWV_lAODozw/view?usp=sharing
+
+# Colab Code Notebook Link:
+https://colab.research.google.com/drive/1ndrasLc91DKnk4Qal0wrUNrWtWWyRTVc?usp=sharing
+
 # Face Authentication Attendance System
 
 A real-time face recognition application built with Python, Flask, and Dlib. This system allows for user registration, identification, and attendance logging (Punch-In/Punch-Out) with automated PDF report generation.
@@ -44,11 +50,7 @@ The current implementation includes a **Tolerance-based filtering**. By setting 
 ---
 
 ## Installation & Setup
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your-username/face-attendance-system.git](https://github.com/your-username/face-attendance-system.git)
-    cd face-attendance-system
-    ```
+1.  **Clone the repository**
 2.  **Install Dependencies:**
     ```bash
     pip install -r requirements.txt
